@@ -1,0 +1,4039 @@
+[
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.navWrap > div#nav.nav > div.nav-Article-QQ.clearfix > ul.clearfix > li#moreNav > a.moreLink > span#moreNav1.moreNav1": [
+        {
+          "classes": [
+            "navWrap"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav"
+          ],
+          "id": "nav",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-Article-QQ",
+            "clearfix"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "moreNav",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "moreLink"
+          ],
+          "id": "",
+          "name": "a"
+        },
+        {
+          "classes": [
+            "moreNav1"
+          ],
+          "id": "moreNav1",
+          "name": "span"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "更多"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "更多"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "更多"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "更多"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "更多"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div.clearfix.crumbs-tool > div.crumbs-div > div#navList.nav-list > a.cur": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "crumbs-tool"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "crumbs-div"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nav-list"
+          ],
+          "id": "navList",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "cur"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "国内"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "国内"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "国内"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "国内"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "国内"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.hd > h1": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h1"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "习近平：三中全会对推进改革作出顶层设计"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "专家：三中全会定调养老金改革“公平可持续”"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "外媒评十八届三中全会：释放全面深化改革信号"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "刘奇葆：学习宣传贯彻十八届三中全会精神热潮"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "最高法：按三中全会部署 坚定不移推进司法改革"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.hd > div.clearfix.tit-bar > div.ll > span.color-a-0": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "tit-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ll"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "color-a-0"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "十八届三中全会"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "时政新闻"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "十八届三中全会"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "学习贯彻三中全会"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "十八届三中全会"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.hd > div.clearfix.tit-bar > div.ll > span.color-a-1": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "tit-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ll"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "color-a-1"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "人民网-人民日报海外版"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "第一财经日报"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "新快报"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "新华网"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "中国新闻网"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.hd > div.clearfix.tit-bar > div.ll > span.color-a-3": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "tit-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ll"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "color-a-3"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "李伟红"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "马学玲"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.hd > div.clearfix.tit-bar > div.ll > span.article-time": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "tit-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ll"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "article-time"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "2013-11-14 03:29"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "2013-11-14 02:06"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "2013-11-14 02:36"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "2013-11-13 20:35"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "2013-11-13 19:56"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.hd > div.clearfix.tit-bar > div#shareBtn.shareBtn.pr.v-shareBtn > a.shareBtn-hd": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "tit-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "shareBtn",
+            "pr",
+            "v-shareBtn"
+          ],
+          "id": "shareBtn",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "shareBtn-hd"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "我要分享"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "我要分享"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "我要分享"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "我要分享"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "我要分享"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.hd > div.clearfix.tit-bar > span.all-number-comment > a#cmtNum": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "tit-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "all-number-comment"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "cmtNum",
+          "name": "a"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "147"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "195"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "8"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "15"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "19"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.ft": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ft"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "相关专题:",
+          "十八届三中全会"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "相关专题:",
+          "十八届三中全会"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "相关专题:",
+          "学习贯彻十八届三中全会精神"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "相关专题:",
+          "十八届三中全会"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.ft > div.about-read > div.hd > h2": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ft"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "about-read"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "相关阅读：\n\t\t\t\t "
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "相关阅读：\n\t\t\t\t "
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "相关阅读：\n\t\t\t\t "
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "相关阅读：\n\t\t\t\t "
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "相关阅读：\n\t\t\t\t "
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.ft > div.about-read > div.bd > div.otherNews > div.bestSelect > table > tbody > tr > td > table > tbody > tr > td": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ft"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "about-read"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "otherNews"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bestSelect"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "td"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "table"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tbody"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "tr"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "td"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "          ·",
+          "外媒评十八届三中全会：释放全面深化改革信号",
+          "2013.11.14",
+          "          ·",
+          "专家：三中全会定调养老金改革“公平可持续”",
+          "2013.11.14",
+          "          ·",
+          "国务院贯彻三中全会精神：必须兑现各项改革承诺",
+          "2013.11.14",
+          "          ·",
+          "刘奇葆：学习宣传贯彻十八届三中全会精神热潮",
+          "2013.11.13",
+          "          ·",
+          "最高法：按三中全会部署 坚定不移推进司法改革",
+          "2013.11.13"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "          ·",
+          "专家称公积金提取难演变养老金 有劫贫济富之嫌",
+          "2013.11.12",
+          "          ·",
+          "报告称全国养老金结余够用1.5年 处于合理区间",
+          "2013.11.07",
+          "          ·",
+          "报告称养老金结余够用1.5年",
+          "2013.11.07",
+          "          ·",
+          "专家：双轨制是造成养老金缺口的重要原因",
+          "2013.11.06",
+          "          ·",
+          "英国一警局为退休警犬提供养老金 每年500镑",
+          "2013.11.05"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "          ·",
+          "专家：三中全会定调养老金改革“公平可持续”",
+          "2013.11.14",
+          "          ·",
+          "国务院贯彻三中全会精神：必须兑现各项改革承诺",
+          "2013.11.14",
+          "          ·",
+          "刘奇葆：学习宣传贯彻十八届三中全会精神热潮",
+          "2013.11.13",
+          "          ·",
+          "最高法：按三中全会部署 坚定不移推进司法改革",
+          "2013.11.13",
+          "          ·",
+          "专家谈三中全会：设机构统筹改革 完善安全体制",
+          "2013.11.13"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "          ·",
+          "最高法：按三中全会部署 坚定不移推进司法改革",
+          "2013.11.13",
+          "          ·",
+          "专家谈三中全会：设机构统筹改革 完善安全体制",
+          "2013.11.13",
+          "          ·",
+          "专家：三中全会将财税改革提升到国家治理高度",
+          "2013.11.13",
+          "          ·",
+          "十八届三中全会公报的七大新意",
+          "2013.11.13",
+          "          ·",
+          "外媒热议中国改革部署 关注三中全会公报亮点",
+          "2013.11.13"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "          ·",
+          "媒体称三中全会司法改革将去地方化和行政化",
+          "2013.11.06",
+          "          ·",
+          "分析称三中全会司法改革将去地方化和行政化",
+          "2013.11.06",
+          "          ·",
+          "阿根廷暴发全国反政府游行 抗议司法改革法案",
+          "2013.04.19",
+          "          ·",
+          "王胜俊：五年完成司法改革任务113项",
+          "2013.03.10",
+          "          ·",
+          "王胜俊：深化司法体制机制改革 惠及广大人民",
+          "2013.03.10"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.ft > div#Tool-Article-QQ.clearfix.Tool-Article-QQ > div.clearfix.h-shareBtn.shareBtn > a.shareBtn-hd": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ft"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "Tool-Article-QQ"
+          ],
+          "id": "Tool-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "h-shareBtn",
+            "shareBtn"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "shareBtn-hd"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "分享到:"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "分享到:"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "分享到:"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "分享到:"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "分享到:"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.ft > div#about.about-other-read-mod > div.hd-line.hd > h2": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ft"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "about-other-read-mod"
+          ],
+          "id": "about",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd-line",
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "热门推荐"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "热门推荐"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "热门推荐"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "热门推荐"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "热门推荐"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.ft > div#about.about-other-read-mod > div.bd > div#recommendTips.recommendTips > div.read-some > h3.hd": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ft"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "about-other-read-mod"
+          ],
+          "id": "about",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "recommendTips"
+          ],
+          "id": "recommendTips",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "read-some"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "看过本文的人还看了"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "看过本文的人还看了"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "看过本文的人还看了"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "看过本文的人还看了"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "看过本文的人还看了"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.ft > div#QQeditor.QQeditor": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ft"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "QQeditor"
+          ],
+          "id": "QQeditor",
+          "name": "div"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "[责任编辑：alannanwen]"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "[责任编辑：alannanwen]"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "[责任编辑：zhenfeichen]"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "[责任编辑：jaycchen]"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "[责任编辑：jaycchen]"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#alltalk.alltalk > div.hd-line.hd > h2": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "alltalk"
+          ],
+          "id": "alltalk",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd-line",
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "大家在说"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "大家在说"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "大家在说"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#alltalk.alltalk > div#hotW.bd > div.mod-title > h3": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "alltalk"
+          ],
+          "id": "alltalk",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "hotW",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "mod-title"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "名人微播"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "名人微播"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "名人微播"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#alltalk.alltalk > div#hotW.bd > div#mrwb > div.clearfix.mrwb-list > div.followall_mod.mrwb-user > div > a.addAttention": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "alltalk"
+          ],
+          "id": "alltalk",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "hotW",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "mrwb",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "mrwb-list"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "followall_mod",
+            "mrwb-user"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "addAttention"
+          ],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 0.0,
+        "text": [
+          "+收听",
+          "+收听"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 0.0,
+        "text": [
+          "+收听",
+          "+收听"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "+收听"
+        ]
+      }
+    },
+    "confidence": 0.3333333333333333
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#alltalk.alltalk > div#hotW.bd > div#mrwb > div.clearfix.mrwb-list > div.mrwb-con > p": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "alltalk"
+          ],
+          "id": "alltalk",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "hotW",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "mrwb",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "mrwb-list"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "mrwb-con"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 0.0,
+        "text": [
+          "华永红",
+          "唐张鹏"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 0.0,
+        "text": [
+          "易富贤",
+          "操盘手10年"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "张兆伟"
+        ]
+      }
+    },
+    "confidence": 0.3333333333333333
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#alltalk.alltalk > div#hotW.bd > div#mrwb > div.clearfix.mrwb-list > div.mrwb-con > p.mrwb-txt": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "alltalk"
+          ],
+          "id": "alltalk",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "hotW",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "mrwb",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "mrwb-list"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "mrwb-con"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "mrwb-txt"
+          ],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 0.0,
+        "text": [
+          "在十八届三中全会前夕，一本由时任正定县县委书记习近平签章颁发的“率先致富奖”证书现身正定。30多年前，正定县顺城关的甘国田敢为人先，靠规模种植月季花致富，成了正定首批万元户之一。1985年1月20日，县委县政府发证表彰了他，并鼓励他带头致富。",
+          "十八届三中全会改革风向标——习近平李克强近期观点梳理,全文↓↓  [image1]"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 0.0,
+        "text": [
+          "十八届三中全会《中共中央关于全面深化改革若干重大问题的决定》2万字左右，涵盖15个领域、60个具体任务。十七届三中全会是1.5万字，十六届是1.2万字，十五届是1.3万字。从字数看这次的内容不少。希望在人口政策上有好消息。",
+          "对后市起决定性作用的就是三大因素：三中全会改革（公报只是开始、一周之内会发布《中共中央关于全面深化改革若干重大问题的决定》全文，然后具体的改革政策将密集出台、每一项改革都是一个热点），优先股制度（预计会在11月至12月推出、利好蓝筹股），IPO重启（业内的普遍预期是明年一季度）。"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "早盘看市1113：市场将正面回应三中全会方针。分析：三中全会公告中的突破性提法：使市场在资源配置中起决定性作用，赋予农民更多财产权利，改革司法体系等，将对中国再度腾飞起到决定性的作用，争论结束后方针明确，预期市场将以正面回应，周三两市红盘大概率，但IPO预期重启，后市趋势仍不确定。"
+        ]
+      }
+    },
+    "confidence": 0.3333333333333333
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#alltalk.alltalk > div#hotW.bd > div#mrwb > div.clearfix.mrwb-list > div.mrwb-con > p.clearfix > span.time": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "alltalk"
+          ],
+          "id": "alltalk",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "hotW",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "mrwb",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "mrwb-list"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "mrwb-con"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [
+            "time"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 0.0,
+        "text": [
+          "今天 14:54:11",
+          "昨天 22:00:02"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 0.0,
+        "text": [
+          "今天 09:51:04",
+          "昨天 21:09:02"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "11月13日 09:15:55"
+        ]
+      }
+    },
+    "confidence": 0.3333333333333333
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#alltalk.alltalk > div#hotW.bd > div#mrwb > div.clearfix.mrwb-list > div.mrwb-con > p.clearfix > a": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "alltalk"
+          ],
+          "id": "alltalk",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "hotW",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "mrwb",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "mrwb-list"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "mrwb-con"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 0.0,
+        "text": [
+          "转播",
+          "转播"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 0.0,
+        "text": [
+          "转播",
+          "转播"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "转播"
+        ]
+      }
+    },
+    "confidence": 0.3333333333333333
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div.mian-ad.mar-b-10 > div.hd > h2": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "mian-ad",
+            "mar-b-10"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "企业服务"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "企业服务"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "企业服务"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "企业服务"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "企业服务"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div#sideBars.side > div.clearfix.articleDjak > h2.articleDjakTitle": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side"
+          ],
+          "id": "sideBars",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "articleDjak"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "articleDjakTitle"
+          ],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "大家爱看"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "大家爱看"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "大家爱看"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "大家爱看"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "大家爱看"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div#sideBars.side > div.clearfix.articleDjak > div#dajiaaikanCon > div#aikanTab01.rightAikanTab > div.hd > p#aikanTimeBefore01.aikanTimeGreen": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side"
+          ],
+          "id": "sideBars",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "articleDjak"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "dajiaaikanCon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "rightAikanTab"
+          ],
+          "id": "aikanTab01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "aikanTimeGreen"
+          ],
+          "id": "aikanTimeBefore01",
+          "name": "p"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "9分钟前"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "10分钟前"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "10分钟前"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "11分钟前"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div#sideBars.side > div.clearfix.articleDjak > div#dajiaaikanCon > div#aikanTab01.rightAikanTab > div#aikanCon01.bd > dl.selected > dd > div.txtArea > p": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side"
+          ],
+          "id": "sideBars",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "articleDjak"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "dajiaaikanCon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "rightAikanTab"
+          ],
+          "id": "aikanTab01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "aikanCon01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "selected"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "txtArea"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "目前认为磁疗可止痛消肿、辅助治疗，但医学上始终存在争议。孕妇以及心脏病人不宜使用磁疗。"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "目前认为磁疗可止痛消肿、辅助治疗，但医学上始终存在争议。孕妇以及心脏病人不宜使用磁疗。"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "目前认为磁疗可止痛消肿、辅助治疗，但医学上始终存在争议。孕妇以及心脏病人不宜使用磁疗。"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "目前认为磁疗可止痛消肿、辅助治疗，但医学上始终存在争议。孕妇以及心脏病人不宜使用磁疗。"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div#sideBars.side > div.clearfix.articleDjak > div#dajiaaikanCon > div#aikanTab01.rightAikanTab > div#aikanCon01.bd > dl.selected > dd.aikanTips > span.fl > a": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side"
+          ],
+          "id": "sideBars",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "articleDjak"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "dajiaaikanCon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "rightAikanTab"
+          ],
+          "id": "aikanTab01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "aikanCon01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "selected"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "aikanTips"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "fl"
+          ],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "197",
+          "次转播/评论"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "197",
+          "次转播/评论"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "197",
+          "次转播/评论"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "197",
+          "次转播/评论"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div#sideBars.side > div.clearfix.articleDjak > div#dajiaaikanCon > div#aikanTab01.rightAikanTab > div#aikanCon01.bd > dl.selected > dd.aikanTips > span.fr": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side"
+          ],
+          "id": "sideBars",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "articleDjak"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "dajiaaikanCon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "rightAikanTab"
+          ],
+          "id": "aikanTab01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "aikanCon01",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "selected"
+          ],
+          "id": "",
+          "name": "dl"
+        },
+        {
+          "classes": [
+            "aikanTips"
+          ],
+          "id": "",
+          "name": "dd"
+        },
+        {
+          "classes": [
+            "fr"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "转播",
+          " | ",
+          "评论"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "转播",
+          " | ",
+          "评论"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "转播",
+          " | ",
+          "评论"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "转播",
+          " | ",
+          "评论"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div#sideBars.side > div.mar-b-18.mod-side.video-air-mod > div.hd > span": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "side"
+          ],
+          "id": "sideBars",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "mar-b-18",
+            "mod-side",
+            "video-air-mod"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "手机看新闻视频"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "手机看新闻视频"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "手机看新闻视频"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "手机看新闻视频"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "手机看新闻视频"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.foot-Article-QQ > div.about-video-foot > div.hd > h2": [
+        {
+          "classes": [
+            "foot-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "about-video-foot"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "视频推荐"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "视频推荐"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "视频推荐"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "视频推荐"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "视频推荐"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.foot-Article-QQ > div#tcopyright.tcopyright > div.en": [
+        {
+          "classes": [
+            "foot-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "tcopyright"
+          ],
+          "id": "tcopyright",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "en"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "Copyright © 1998 - 2013 Tencent. All Rights Reserved"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "Copyright © 1998 - 2013 Tencent. All Rights Reserved"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "Copyright © 1998 - 2013 Tencent. All Rights Reserved"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "Copyright © 1998 - 2013 Tencent. All Rights Reserved"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "Copyright © 1998 - 2013 Tencent. All Rights Reserved"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div#scrollBtn.scrollBtn > ul.clearfix > li.sB-comment > a#goCmt.ff-t": [
+        {
+          "classes": [
+            "scrollBtn"
+          ],
+          "id": "scrollBtn",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix"
+          ],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [
+            "sB-comment"
+          ],
+          "id": "",
+          "name": "li"
+        },
+        {
+          "classes": [
+            "ff-t"
+          ],
+          "id": "goCmt",
+          "name": "a"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000908.htm": {
+        "score": 1.0,
+        "text": [
+          "0"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "0"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "8"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "15"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "19"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.hd > div.clearfix.tit-bar > div.ll > span#mbSourceCard.infoMblog > span.color-a-2": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "tit-bar"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ll"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "infoMblog"
+          ],
+          "id": "mbSourceCard",
+          "name": "span"
+        },
+        {
+          "classes": [
+            "color-a-2"
+          ],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "\n\t\t\t\t[",
+          "微博",
+          "]\n\t\t\t"
+        ]
+      },
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "\n\t\t\t\t[",
+          "微博",
+          "]\n\t\t\t"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "\n\t\t\t\t[",
+          "微博",
+          "]\n\t\t\t"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.bd > div#Cnt-Main-Article-QQ > div#invideocon.clearfix.relativeVideo > div#relInfo.clearfix.relInfo > div.relTxt > h2": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Cnt-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "relativeVideo"
+          ],
+          "id": "invideocon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "relInfo"
+          ],
+          "id": "relInfo",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "relTxt"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "农村养老调研：超6成担心基本生活来源"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "北京掀起学习宣传贯彻十八届三中全会精神热潮"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.bd > div#Cnt-Main-Article-QQ > div#invideocon.clearfix.relativeVideo > div#relVideo.relVideo > div.reltit > h3": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Cnt-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "relativeVideo"
+          ],
+          "id": "invideocon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "relVideo"
+          ],
+          "id": "relVideo",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "reltit"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h3"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "农村养老调研：超6成担心基本生活来源"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "北京掀起学习宣传贯彻十八届三中全会精神热潮"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.bd > div#Cnt-Main-Article-QQ > div#invideocon.clearfix.relativeVideo > div#relVideo.relVideo > div.reltit": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Cnt-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "relativeVideo"
+          ],
+          "id": "invideocon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "relVideo"
+          ],
+          "id": "relVideo",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "reltit"
+          ],
+          "id": "",
+          "name": "div"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "收起"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "收起"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.bd > div#Cnt-Main-Article-QQ > div#invideocon.clearfix.relativeVideo > div#relVideo.relVideo > div.convideo > div#showHotBox.tjvideo > span": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Cnt-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "relativeVideo"
+          ],
+          "id": "invideocon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "relVideo"
+          ],
+          "id": "relVideo",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "convideo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "tjvideo"
+          ],
+          "id": "showHotBox",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "推荐视频："
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "推荐视频："
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.bd > div#Cnt-Main-Article-QQ > div#invideocon.clearfix.relativeVideo > div#relVideo.relVideo > div.convideo > div#showHotBox.tjvideo > ul > li": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Cnt-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "relativeVideo"
+          ],
+          "id": "invideocon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "relVideo"
+          ],
+          "id": "relVideo",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "convideo"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "tjvideo"
+          ],
+          "id": "showHotBox",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "ul"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "li"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "印尼火山喷发浓烟滚滚直冲云霄"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "印尼火山喷发浓烟滚滚直冲云霄"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.bd > div#Cnt-Main-Article-QQ > div#invideocon.clearfix.relativeVideo > div#relVideo.relVideo > div#sidebar.clearfix.clearTY > div.nowPlay > p": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "Cnt-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "relativeVideo"
+          ],
+          "id": "invideocon",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "relVideo"
+          ],
+          "id": "relVideo",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "clearTY"
+          ],
+          "id": "sidebar",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "nowPlay"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "p"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000731.htm": {
+        "score": 1.0,
+        "text": [
+          "正在播放"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "正在播放"
+        ]
+      }
+    },
+    "confidence": 1.0
+  },
+  {
+    "score": 1.0,
+    "selectors": {
+      "div.body-Article-QQ > div#Main-Article-QQ.clearfix.wrapper > div#MainL.bd > div.main > div#C-Main-Article-QQ > div.ft > div.about-read > div.hd > h2 > span > a": [
+        {
+          "classes": [
+            "body-Article-QQ"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "clearfix",
+            "wrapper"
+          ],
+          "id": "Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "bd"
+          ],
+          "id": "MainL",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "main"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "C-Main-Article-QQ",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "ft"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "about-read"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [
+            "hd"
+          ],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "h2"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "span"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "a"
+        }
+      ]
+    },
+    "pages": {
+      "http://news.qq.com/a/20131114/000788.htm": {
+        "score": 1.0,
+        "text": [
+          "三中全会"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015986.htm": {
+        "score": 1.0,
+        "text": [
+          "三中全会"
+        ]
+      },
+      "http://news.qq.com/a/20131113/015568.htm": {
+        "score": 1.0,
+        "text": [
+          "司法改革"
+        ]
+      }
+    },
+    "confidence": 1.0
+  }
+]

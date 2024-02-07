@@ -1,7 +1,9 @@
 import collections
 import math
 import numpy as np
-import mlpy
+# import mlpy
+from difflib import SequenceMatcher
+
 
 class TermFrequencyAnalyzer(object):
 
@@ -18,7 +20,7 @@ class TermFrequencyAnalyzer(object):
 
         # idf
         idf = dict()
-        for token, count in df.iteritems():
+        for token, count in df.items():
             idf[token] = math.log(float(len(documents)) / float(count))
 
         return idf
@@ -50,14 +52,23 @@ class LongestAnalyzer(object):
         pass
 
     def get_similarity(self, a, b):
-        #return self.lcs(a, b)
+        return self.lcs(a, b)
 
         a = np.array(list(a), dtype='U1').view(np.uint32)
         b = np.array(list(b), dtype='U1').view(np.uint32)
-        length, path = mlpy.lcs_std(a, b)
+        # length, path = mlpy.lcs_std(a, b)
         return length
-        
+
     def lcs(self, a, b):
+        matcher = SequenceMatcher(None, a, b)
+        match = matcher.find_longest_match(0, len(a), 0, len(b))
+
+        length = match.size
+        path = a[match.a:match.a + length]
+
+        return length, path
+
+    def lcs_old(self, a, b):
         a = a[:200]
         b = b[:200]
         if (len(a) < len(b)):

@@ -1,4 +1,5 @@
-import stemmer
+# import stemmer
+from nltk.stem import PorterStemmer
 import re
 import os
 
@@ -21,7 +22,7 @@ class EnglishTokenizer(object):
     MIN_LENGTH = 3
 
     def __init__(self):
-        self.stemmer = stemmer.PorterStemmer()
+        self.stemmer = PorterStemmer()
         self.stop_words = self.load_stop_words(os.path.join(os.path.abspath(os.path.dirname(__file__)), 'english.stop'))
 
     def load_stop_words(self, path):
@@ -30,7 +31,7 @@ class EnglishTokenizer(object):
         return set([self.stem(word) for word in set(stop_words)])
 
     def stem(self, word):
-        return self.stemmer.stem(word, 0, len(word) - 1)
+        return self.stemmer.stem(word) #, 0, len(word) - 1)
 
     def tokenize(self, *texts):
         tokens_list = []

@@ -60,7 +60,7 @@ class Processor(object):
             # continuous features
             continuous_features.append([
                 process(page, text)
-                for key, process in self.CONTINUOUS_FEATURES.iteritems()
+                for key, process in self.CONTINUOUS_FEATURES.items()
             ])
 
             # discrete features
@@ -95,7 +95,7 @@ class Processor(object):
 
             # first find out this text block's relevence score
             hints = page['titles'] + page['descriptions']
-            score = self.analyzer.get_similarity(text['tokens'], hints) if hints else 0.0
+            score, str = self.analyzer.get_similarity(text['tokens'], hints) if hints else 0.0
 
             # find the cluster
             cluster = clusters[int(label)]
@@ -192,7 +192,6 @@ class Processor(object):
 
         #return clusters, np.hstack([continuous_features, discrete_features]).astype(np.float32), labels.astype(np.float32)
 
-    """
     def score(self, labels):
 
         clusters = collections.defaultdict(lambda: dict(
@@ -247,13 +246,15 @@ class Processor(object):
 
             # consolidate clusters
             cluster['selectors'] = utils.consolidate_selectors(cluster['selectors'])
-
+        toDelete = []
         # get rid of the clusters with score 0
         for label in clusters.keys():
             if clusters[label]['score'] <= 0 or clusters[label]['confidence'] <= 0:
-                del clusters[label]
+                toDelete.append(label)
+
+        for label in toDelete:
+            del clusters[label]
 
         return clusters.values()
-        """
 
 

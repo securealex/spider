@@ -12,12 +12,15 @@ import os
 import argparse
 import subprocess
 
-def main(args):
+def main(args=None):
 
     extractor = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'extractor.coffee')
-    path = utils.get_data_path(args.site[0])
-    urls = utils.load_urls(path)
+    # path = utils.get_data_path(args.site[0])
+    # urls = utils.load_urls(path)
 
+    spath = args.site[0] if args is not None else "qq"
+    path = utils.get_data_path(spath)
+    urls = utils.load_urls(path)
     # extract data from each url
     for id, url in enumerate(urls):
         url = url.strip()
@@ -28,7 +31,7 @@ def main(args):
         if os.path.exists(os.path.join(path, '%03d.json' % id)):
             continue
 
-        print '[extractor] #%03d: %s' % (id, url)
+        print('[extractor] #%03d: %s' % (id, url))
         subprocess.call('cd "%(path)s" && phantomjs "%(extractor)s" "%(url)s" "%(label)03d" > "%(label)03d.log" 2>&1' % {
             'path': path,
             'extractor': extractor,
@@ -45,4 +48,4 @@ def parse_args():
     return parser.parse_args()
 
 if __name__ == '__main__':
-    main(parse_args())
+    main()

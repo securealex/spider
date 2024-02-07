@@ -14,14 +14,17 @@ import simplejson as json
 import os
 import argparse
 
-def main(args):
-
-    path = utils.get_data_path(args.site[0])
+def main(args=None):
+    spath = args.site[0] if args is not None else "qq"
+    path = utils.get_data_path(spath)
     urls = utils.load_urls(path)
+
+    # path = utils.get_data_path(args.site[0])
+    # urls = utils.load_urls(path)
 
     for count in range(2, len(urls) + 1):
 
-        print '[learner] clustering with %d urls' % count
+        print('[learner] clustering with %d urls' % count)
 
         # load data
         data = [utils.load_data(path, id) for id, url in enumerate(urls)]
@@ -38,8 +41,8 @@ def main(args):
         # score
         clusters = processor.score(labels)
         
-        with open(os.path.join(path, 'clusters.%03d.json' % count), 'w') as f:
-            f.write(json.dumps(clusters, indent=2, ensure_ascii=False).encode('utf8'))
+        with open(os.path.join(path, 'clusters.%03d.json' % count), 'wb') as f:
+            f.write(json.dumps(list(clusters), indent=2, ensure_ascii=False).encode('utf8'))
 
 def parse_args():
     """
@@ -50,4 +53,4 @@ def parse_args():
     return parser.parse_args()
 
 if __name__ == '__main__':
-    main(parse_args())
+    main() #parse_args())
